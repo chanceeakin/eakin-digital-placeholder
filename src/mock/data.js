@@ -2,16 +2,16 @@ import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
-  title: '', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  title: 'Eakin Digital', // e.g: 'Name | Developer'
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Coming soon', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
+  title: 'Eakin',
+  name: 'Digital.',
+  subtitle: 'Coming soon.',
   cta: '',
 };
 
@@ -57,35 +57,14 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
+  cta: 'Join us as we start something new.',
   btn: '',
-  email: '',
+  email: 'chance@eakindigital.com',
 };
 
 // FOOTER DATA
 export const footerData = {
-  networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'linkedin',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'github',
-      url: '',
-    },
-  ],
+  networks: [],
 };
 
 // Github start/fork buttons
