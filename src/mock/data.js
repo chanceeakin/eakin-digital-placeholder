@@ -12,7 +12,6 @@ export const heroData = {
   title: 'Eakin',
   name: 'Digital.',
   subtitle: 'Coming soon.',
-  cta: '',
 };
 
 // ABOUT DATA
