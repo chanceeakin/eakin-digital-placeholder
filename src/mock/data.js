@@ -58,7 +58,6 @@ export const projectsData = [
 export const contactData = {
   cta: 'Join us as we start something new.',
   btn: '',
-  email: 'chance@eakindigital.com',
 };
 
 // FOOTER DATA
